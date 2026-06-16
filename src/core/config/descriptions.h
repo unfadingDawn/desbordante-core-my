@@ -73,6 +73,8 @@ constexpr auto kDItemColumnIndex = "index of the column where an item name is st
 constexpr auto kDMinimumConfidence = "minimum confidence value (between 0 and 1)";
 constexpr auto kDMinimumSupport = "minimum support value (between 0 and 1)";
 constexpr auto kDTIdColumnIndex = "index of the column where a TID is stored";
+// CDD
+constexpr auto kDCdd = "Conditional differential dependency that needs to be verified";
 // CFD
 constexpr auto kDCfdColumnsNumber =
         "Number of columns in the part of the dataset if you "

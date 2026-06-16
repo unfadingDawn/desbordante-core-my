@@ -27,6 +27,8 @@ constexpr auto kItemColumnIndex = "item_column_index";
 constexpr auto kMinimumConfidence = "minconf";
 constexpr auto kMinimumSupport = "minsup";
 constexpr auto kTIdColumnIndex = "tid_column_index";
+// CDD
+constexpr auto kCdd = "cdd";
 // CFD
 constexpr auto kCfdColumnsNumber = "columns_number";
 constexpr auto kCfdMaximumLhs = "cfd_max_lhs";
