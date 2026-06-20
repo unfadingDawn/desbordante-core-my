@@ -1,6 +1,7 @@
 set(SUBDIRS
     algebraic_constraints
     association_rules
+    cdd
     cfd
     cind
     dc

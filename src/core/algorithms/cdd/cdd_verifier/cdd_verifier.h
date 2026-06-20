@@ -2,7 +2,6 @@
 
 #include "core/algorithms/cdd/cdd.h"
 #include "core/algorithms/dd/dd_verifier/dd_verifier.h"
-#include "core/model/table/column_index.h"
 
 namespace algos::cdd {
 
